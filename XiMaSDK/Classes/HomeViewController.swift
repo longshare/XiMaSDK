@@ -33,7 +33,7 @@ public class HomeViewController: UIViewController {
         
         let label = UILabel.init()
         self.view.addSubview(label)
-        label.text = "喜马把脉"
+        label.text = "你好喜马把脉"
         label.font = UIFont.systemFont(ofSize: 16)
         label.textColor = UIColor.black
         label.textAlignment = .center
