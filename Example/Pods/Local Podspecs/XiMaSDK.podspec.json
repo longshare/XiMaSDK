@@ -1,6 +1,5 @@
 {
   "name": "XiMaSDK",
-  "version": "1.0.0",
   "summary": "这是一个测试公共库！",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/longshare/XiMaSDK",
@@ -13,14 +12,14 @@
   },
   "source": {
     "git": "https://github.com/longshare/XiMaSDK.git",
-    "tag": "0.1.0"
+    "tag": ""
   },
   "platforms": {
     "ios": "12.0"
   },
+  "version": "1.0.1",
   "source_files": "XiMaSDK/Classes/**/*",
   "swift_versions": "5.0",
-  "public_header_files": "Pod/Classes/**/*.h",
   "frameworks": "UIKit",
   "dependencies": {
     "Alamofire": [

@@ -1,7 +1,7 @@
 PODS:
   - Alamofire (4.9.1)
   - SnapKit (4.2.0)
-  - XiMaSDK (1.0.0):
+  - XiMaSDK (1.0.1):
     - Alamofire
     - SnapKit
 
@@ -20,7 +20,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
   SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
-  XiMaSDK: 3c3b9322feb103a5b99547f502e23050fda810a3
+  XiMaSDK: d8ff7c60ce7dbf41b9267531256c0b03a5d27b90
 
 PODFILE CHECKSUM: 2ced2566abeabec52a0859ed028a15332064a1a2
 

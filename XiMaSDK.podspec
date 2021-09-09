@@ -8,7 +8,6 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XiMaSDK'
-  s.version          = '1.0.0'
   s.summary          = 'A short description of XiMaSDK.'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +29,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '12.0'
   s.summary          = '这是一个测试公共库！'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.source_files = 'XiMaSDK/Classes/**/*'
   
   # s.resource_bundles = {
@@ -38,7 +37,7 @@ TODO: Add long description of the pod here.
   # }
 
    s.swift_version = '5.0'
-   s.public_header_files = 'Pod/Classes/**/*.h'
+#   s.public_header_files = 'Pod/Classes/**/*.h'
    s.frameworks = 'UIKit'
    s.dependency 'Alamofire'
    s.dependency 'SnapKit'
