@@ -30,6 +30,18 @@ public class HomeViewController: UIViewController {
             make.center.equalTo(view)
             make.size.equalTo(CGSize.init(width: 100, height: 100))
         }
+        
+        let label = UILabel.init()
+        self.view.addSubview(label)
+        label.text = "喜马把脉"
+        label.font = UIFont.systemFont(ofSize: 16)
+        label.textColor = UIColor.black
+        label.textAlignment = .center
+        label.snp.makeConstraints { (make) in
+            make.top.equalTo(nextButton.snp.bottom).offset(5)
+            make.centerX.equalTo(self.view)
+        }
+        
     }
     
    open func sayHello()
