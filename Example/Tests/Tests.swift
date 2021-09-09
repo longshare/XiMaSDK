@@ -1,5 +1,5 @@
 import XCTest
-import XiMaSDK
+//import XiMaSDK
 
 class Tests: XCTestCase {
     

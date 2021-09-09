@@ -1,0 +1,6 @@
+framework module Pods_XiMaSDK_Tests {
+  umbrella header "Pods-XiMaSDK_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

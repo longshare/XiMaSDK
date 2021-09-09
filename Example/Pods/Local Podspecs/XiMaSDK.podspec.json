@@ -1,0 +1,34 @@
+{
+  "name": "XiMaSDK",
+  "version": "1.0.0",
+  "summary": "这是一个测试公共库！",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/longshare/XiMaSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "陈任龙": "724485526@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/longshare/XiMaSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source_files": "XiMaSDK/Classes/**/*",
+  "swift_versions": "5.0",
+  "public_header_files": "Pod/Classes/**/*.h",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "Alamofire": [
+
+    ],
+    "SnapKit": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}

@@ -1,0 +1,6 @@
+framework module XiMaSDK {
+  umbrella header "XiMaSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
