@@ -29,7 +29,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '12.0'
   s.summary          = '这是一个测试公共库！'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.source_files = 'XiMaSDK/Classes/**/*'
   
   # s.resource_bundles = {
